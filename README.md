@@ -9,4 +9,4 @@ ASSEMBLER CHIP-8:
 https://github.com/aranega/chip8-compiler
 
 OBSERVAÇÕES:
-Para maior particidade, use GNU/Linux.
+Para maior praticidade, use GNU/Linux.
